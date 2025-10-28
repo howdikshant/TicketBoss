@@ -1,0 +1,12 @@
+{
+  "ac046d08-5c17-43da-9638-cecd246a5086": {
+    "partnerId": "abc-corp",
+    "seats": 3,
+    "status": "confirmed"
+  },
+  "983d9a54-049c-4328-84e6-9fcd5fc44428": {
+    "partnerId": "abc-corp",
+    "seats": 5,
+    "status": "confirmed"
+  }
+}
