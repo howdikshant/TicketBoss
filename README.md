@@ -167,9 +167,9 @@ Thanks to the FastAPI documentation team and the open-source community for inspi
 
 ---
 
-**Submitted by:** Dikshant Ubale  
-**Date:** October 2025  
-**Assignment:** Backend Intern Challenge – Powerplay  
+**Submitted by:** Dikshant  
+**Date:** 29th October 2025  
+**Assignment:** Backend Intern Assignment – Powerplay  
 
 
 
