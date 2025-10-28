@@ -171,27 +171,5 @@ Thanks to the FastAPI documentation team and the open-source community for inspi
 **Date:** October 2025  
 **Assignment:** Backend Intern Challenge – Powerplay  
 
-### Step 1: Clone the Repository
 
-Clone your public GitHub repository:
-
-```bash
-git clone [https://github.com/howdikshant/TicketBoss](https://github.com/howdikshant/TicketBoss)
-cd TicketBoss
-
-# Create environment
-python -m venv venv
-
-# Activate environment (Windows)
-.\venv\Scripts\activate
-
-# Activate environment (macOS/Linux)
-source venv/bin/activate
-
-pip install fastapi uvicorn pydantic jinja2
-
-uvicorn main:app --reload
-
-Frontend UI: http://127.0.0.1:8000/
-API Documentation (Swagger UI): http://127.0.0.1:8000/docs
 
