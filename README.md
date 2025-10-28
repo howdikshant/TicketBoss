@@ -9,9 +9,6 @@ This guide provides the necessary steps to install dependencies and run the appl
 ### Prerequisites
 
 * Python 3.8+ (with `pip`)
-# TicketBoss – Event Ticketing API  
-
-An event-ticketing backend built using Python and FastAPI, demonstrating real-time seat reservations with Optimistic Concurrency Control (OCC).  
 
 ---
 
